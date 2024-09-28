@@ -49,6 +49,9 @@ NIM : 122450099
 <p align="center">
 <img src="![images(3)](https://github.com/user-attachments/assets/1487bd66-f9fb-491e-a061-c672811ebeb2)" width="600">
 </p>
+
+**Alasan:**
+
 - **Kejelasan**: Perspektif 3D mengaburkan informasi yang sebenarnya.
 - **Relevansi**: Penggunaan 3D tidak relevan untuk data sederhana.
 - **Efisiensi**: Membutuhkan lebih banyak waktu untuk memahami data.
