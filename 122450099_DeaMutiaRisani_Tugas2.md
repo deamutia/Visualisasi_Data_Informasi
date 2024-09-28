@@ -9,7 +9,7 @@ NIM : 122450099
 - **Grafik Garis Sederhana untuk Menunjukkan Tren Penjual**
 
 <p align="center">
-<img src=""C:\Users\userl\Downloads\images.png"" width="600">
+<img src="C:\Users\userl\Downloads\images.png" width="600">
 </p>
 **Alasan:**
 
